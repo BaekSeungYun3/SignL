@@ -22,11 +22,11 @@
 <br/>
 
 ## ✔️ 주요 기능
-- **미디어 파이프를 활용한 수어 번역** : MONAI MODEL zoo - Wholebody ct segmentation model 사용하여 CT 이미지상 장기 분류
-![image](https://github.com/user-attachments/assets/aaba9d8b-3fae-4a48-831b-9365ebd13d50)
+- **미디어 파이프를 활용한 수어 번역** :캠으로 촬영된 수어에 미디어파이프를 입혀 프로그램내에 학습된 수어를 K-최근접 이웃 알고리즘을 통해 비교하여 수어 번역
+![스크린샷 2024-09-12 171310](https://github.com/user-attachments/assets/7006794d-287a-4743-b11f-88a6b5982a4d)
 
-- **대화로그 제공** : 분류된 장기를 STL파일로 변환하여 3D화
-![image](https://github.com/user-attachments/assets/638a343e-dbb1-46c0-8949-7b329c6cf128)
+- **대화로그 제공** : 의사와 환자가 소통하였던 내역을 대화로그를 통해 볼 수 있음
+![스크린샷 2024-09-12 171320](https://github.com/user-attachments/assets/5967c172-af24-4dcf-8160-d00bf5e4fa99)
 <br/>
 
 ## 🔨 프로젝트 구조
