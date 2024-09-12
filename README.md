@@ -30,28 +30,27 @@
 <br/>
 
 ## 🔨 프로젝트 구조
-![image](https://github.com/user-attachments/assets/173542fd-1e1c-4428-b631-7927130e740e)
+![스크린샷 2024-09-12 151553](https://github.com/user-attachments/assets/4cf7a180-e3d9-4d5b-9b2c-84bbb5dfe591)
+
 
 <br/>
 
 ## 🔧 Stack
 
 **Frontend**
-- **Developemt** : Unity
+- **Developemt** : .NET MUAI
 <br />
 
 **Backend**
-- **Language** : Python
-- **Library & Framework** : numpy, pydicom, pandas, matplotlib, scipy, skimage...
+- **Language** : c#
+- **Library & Framework** :Firebase storge, mediapipe, FireSharp, cv2...
 <br/>
 
 ## 💡 기대효과
 
-**세그멘테이션 모델 활용으로 장기 분류 정확도를 높여 신뢰도 향상**
+**의료 수어 통역 서비스의 부족함 해결**
+**청각 / 언어 장애인의 불편함 해소**
 
-**무료로 제공하여 사용자의 접근성 향상**
-
-**가상환경에서  장기를 사용자가 보고 자유롭게 제어할 수 있도록 개발**
 
 
 <br/>
