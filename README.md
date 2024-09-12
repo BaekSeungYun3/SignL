@@ -31,6 +31,9 @@
 
 ## 🔨 프로젝트 구조
 ![스크린샷 2024-09-12 151553](https://github.com/user-attachments/assets/4cf7a180-e3d9-4d5b-9b2c-84bbb5dfe591)
+![스크린샷 2024-09-12 171838](https://github.com/user-attachments/assets/ce4f8947-df98-4f8a-a95a-086604fdfb7d)
+![스크린샷 2024-09-12 171827](https://github.com/user-attachments/assets/8fef4b3a-523a-4b0f-968d-376c83709626)
+
 
 
 <br/>
